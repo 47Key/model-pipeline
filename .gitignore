@@ -1,0 +1,3 @@
+# Ignore the model & tokenizer config files
+/app/BILSTM
+/app/tokenizer.json
